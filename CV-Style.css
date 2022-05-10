@@ -1,0 +1,13 @@
+.float-image {
+    float: right;
+    margin-right: 10px;
+    margin-block-end: 5px;
+    border : solid black 1px;
+    padding : 5px;
+
+}
+
+
+h2 {
+    color : red;
+}
